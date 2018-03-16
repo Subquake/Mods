@@ -1,10 +1,13 @@
 TERMS OF USE
 ------------------------------------------------------------------------------------------------------------------------------
 Contact:
+
 E-Mail: subquake@gmail.com
+
 Forum profile: https://7daystodie.com/forums/member.php?96669-Subquake
 
 Terms:
+
 Mod Author - Subquake, the developer and author of Undead Legacy.
 
 Usage:
