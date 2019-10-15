@@ -19,4 +19,5 @@ TERMS OF USE
 CONTACTS
 ------------------------------------------------------------------------------------------------------------------------------
 E-Mail: subquake@gmail.com<br/>
+Discord: Subquake#9636
 Forum profile: https://7daystodie.com/forums/member.php?96669-Subquake<br/>
