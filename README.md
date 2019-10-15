@@ -1,19 +1,11 @@
 TERMS OF USE
 ------------------------------------------------------------------------------------------------------------------------------
-<b>Terms:</b><br/>
-<b>Mod Author</b> - Subquake, the developer and author of <b>Undead Legacy</b>.<br/>
-
-<b>Usage</b>:<br/>
-
-TERMS OF USE
-------------------------------------------------------------------------------------------------------------------------------
-
-Definitions:
+<b>Definitions:</b><br/>
   Subquake's Mods - Any type of mods published in this Mods repository.
   Mod Author - Subquake, the developer and author of Mods.
   Asset Files - Any type of music, sound, video, texture, model or script files, that are included in Mods.
   
-Usage:
+<b>Usage</b>:<br/>
 1. You are allowed to use Subquake's Mods for personal use, and you are free to modify those files however you wish provided they remain for personal use.
 2. You are allowed to share gameplay screenshots, gameplay video footage or broadcast parts of Subquake's Mods live on stream.
 3. You are not allowed to reuse, distribute, duplicate, copy, modify or share any of Subquake's Mods asset files other than by sharing a link to the original source of Subquake's Mods and these Terms of Use.
