@@ -4,7 +4,7 @@ Just by placing a few torches in the game, you can immediately see your frame ra
 
 Purchased third party assets used in the mod:
 - Realistic Fire VFX
--- Author: Luke Peek
--- Link: https://assetstore.unity.com/packages/vfx/particles/fire-explosions/realistic-fire-vfx-54494
--- Licensing type: Unity Asset Store Asset License
--- Asset store Terms of Service and EULA: https://unity3d.com/legal/as_terms
+- - Author: Luke Peek
+- - Link: https://assetstore.unity.com/packages/vfx/particles/fire-explosions/realistic-fire-vfx-54494
+- - Licensing type: Unity Asset Store Asset License
+- - Asset store Terms of Service and EULA: https://unity3d.com/legal/as_terms
