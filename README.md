@@ -1,8 +1,8 @@
 TERMS OF USE
 ------------------------------------------------------------------------------------------------------------------------------
 <b>Definitions:</b><br/>
-- Subquake's Mods - Any type of mods published in this Mods repository.
 - Mod Author - Subquake, the developer and author of Mods.
+- Subquake's Mods - Mods published by Mod Author in this repository.
 - Asset Files - Any type of music, sound, video, texture, model or script files, that are included in Mods.
   
 <b>Usage</b>:<br/>
