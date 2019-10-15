@@ -1,19 +1,30 @@
 TERMS OF USE
 ------------------------------------------------------------------------------------------------------------------------------
-Contact:<br/>
-E-Mail: subquake@gmail.com<br/>
-Forum profile: https://7daystodie.com/forums/member.php?96669-Subquake<br/>
-
 <b>Terms:</b><br/>
 <b>Mod Author</b> - Subquake, the developer and author of <b>Undead Legacy</b>.<br/>
 
 <b>Usage</b>:<br/>
 
-1. You are allowed to use <b>Undead Legacy</b> with or without any kind of modifications to its source material. All modifications and/or derivative works of <b>Undead Legacy</b> are restricted to private use only if not stated otherwise with written consent from <b>Mod Author</b>.
+TERMS OF USE
+------------------------------------------------------------------------------------------------------------------------------
 
-2. Your rights to use, reuse, distribute, duplicate, copy and modify <b>Undead Legacy</b> is limited to private use only if not stated otherwise with written consent from <b>Mod Author</b>.
+Definitions:
+  Subquake's Mods - Any type of mods published in this Mods repository.
+  Mod Author - Subquake, the developer and author of Mods.
+  Asset Files - Any type of music, sound, video, texture, model or script files, that are included in Mods.
+  
+Usage:
+1. You are allowed to use Subquake's Mods for personal use, and you are free to modify those files however you wish provided they remain for personal use.
+2. You are allowed to share gameplay screenshots, gameplay video footage or broadcast parts of Subquake's Mods live on stream.
+3. You are not allowed to reuse, distribute, duplicate, copy, modify or share any of Subquake's Mods asset files other than by sharing a link to the original source of Subquake's Mods and these Terms of Use.
+4. You may reuse, distribute, duplicate, copy, modify or share one of Subquake's Mods files in a manner other than for personal use ONLY with written consent from Mod Author. 
+5. All modifications and derivative works of Subquake's Mods are restricted to either private personal use or otherwise with written consent from Mod Author. 
+6. All artwork related files (any format of images or video files) for Subquake's Mods posted, shared or distributed by Mod Author in any form (digital or physical) belong to Mod Author and duplicating, copying or distributing these files is limited to either personal use or otherwise with written consent from Mod Author.
+7. If you have a written consent (digital or physical) from Mod Author to do one or more of the following: use, reuse, distribute, duplicate, copy or modify one of Subquake's Mods outside of private use only, you are obligated to give appropriate credit to Mod Author, provide a link to the original source of the mod from Subquake's Mods and these Terms of Use, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the Mod Author endorses you or your use.
+8. Mod Author reserves the right to revoke any consent referenced above at any time, upon reasonable notice, for any lawful reason.
+9. Mod Author is not responsible for any damage that may be inflicted resulting from the installation or use of Subquake's Mods.
 
-3. <b>Mod Author</b> is not responsible for any damage, that may be inflicted during an incorrect or correct installation of <b>Undead Legacy</b>.<br/>
-All artwork related files (any format of images or video files) for <b>Undead Legacy</b> posted, shared or distributed by <b>Mod Author</b> in any form (digital or physical) belong to <b>Mod Author</b> unless stated otherwise by <b>Mod Author</b> and duplicating/copying these files is limited to private use only unless stated otherwise by a written consent by <b>Mod Author</b>.
-
-4. If you have a written consent (digital or physical) from <b>Mod Author</b> to do one or more of the following: use, reuse, distribute, duplicate, copy or modify <b>Undead Legacy</b> outside of private use only, you are obligated to give appropriate credit to <b>Mod Author</b>, provide a link to the original source of <b>Undead Legacy</b> and these Terms of use, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the <b>Mod Author</b> endorses you or your use.
+CONTACTS
+------------------------------------------------------------------------------------------------------------------------------
+E-Mail: subquake@gmail.com<br/>
+Forum profile: https://7daystodie.com/forums/member.php?96669-Subquake<br/>
