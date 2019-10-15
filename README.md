@@ -3,7 +3,7 @@ TERMS OF USE
 <b>Definitions:</b><br/>
 - Mod Author - Subquake, the developer and author of Subquake's Mods.
 - Subquake's Mods - Mods published by Mod Author in this repository.
-- Asset Files - Any type of music, sound, video, texture, model or script files, that are included in Mods.
+- Asset Files - Any type of music, sound, video, texture, model or script files, that are included in Subquake's Mods.
   
 <b>Usage</b>:<br/>
 1. You are allowed to use Subquake's Mods for personal use, and you are free to modify those files however you wish provided they remain for personal use.
